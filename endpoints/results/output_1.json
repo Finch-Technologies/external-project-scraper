@@ -1,0 +1,78 @@
+{
+    "driver": "Alex Albon",
+    "message": "Successful",
+    "season": 2022,
+    "data": [
+        {
+            "location": "Australian Grand Prix",
+            "race": {
+                "position": 1,
+                "time": "1:30:00.000",
+                "pitstops": 1,
+                "grid": 2
+            },
+            "practice":{
+                "P1": {
+                    "position": 1,
+                    "time": "1:30.000"
+                },
+                "P2": {
+                    "position": 1,
+                    "time": "1:29.000"
+                },
+                "P3": null
+            },
+            "qualifying": {
+                "Q1": {
+                    "position": 1,
+                    "time": "1:28.000"
+                },
+                "Q2": {
+                    "position": 1,
+                    "time": "1:27.000"
+                },
+                "Q3": {
+                    "position": 1,
+                    "time": "1:26.000"
+                }
+            } 
+        },
+        {
+            "location": "Monaco Grand Prix",
+            "race": {
+                "position": 1,
+                "time": "1:30:00.000",
+                "pitstops": 1,
+                "grid": 2
+            },
+            "practice":{
+                "P1": {
+                    "position": 1,
+                    "time": "1:30.000"
+                },
+                "P2": {
+                    "position": 1,
+                    "time": "1:29.000"
+                },
+                "P3": {
+                    "position": 1,
+                    "time": "1:29.000"
+                }
+            },
+            "qualifying": {
+                "Q1": {
+                    "position": 1,
+                    "time": "1:28.000"
+                },
+                "Q2": {
+                    "position": 1,
+                    "time": "1:27.000"
+                },
+                "Q3": {
+                    "position": 1,
+                    "time": "1:26.000"
+                }
+            }
+        }
+    ]
+}

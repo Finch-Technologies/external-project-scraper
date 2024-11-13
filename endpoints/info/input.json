@@ -1,0 +1,8 @@
+{
+    "uri":"/info",
+    "method":"GET",
+    "payload":{
+        "driver":"Alex Albon"
+    },
+    "example":"/info?driver=Alex%20Albon"
+}

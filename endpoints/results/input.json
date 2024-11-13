@@ -1,0 +1,9 @@
+{
+    "uri":"/results",
+    "method":"GET",
+    "query":{
+        "driver":"Alex Albon",
+        "season":2022
+    },
+    "example":"/results?driver=Alex%20Albon&season=2022"
+}

@@ -8,17 +8,17 @@ The purpose of this project is to test coding skills and problem-solving abiliti
 
 ## API Endpoints
 
-1. **Start Scraping**
+1. **Get Driver Information**
     - **Endpoint**: `/info`
     - **Method**: `GET`
     - **Description**: Scrape general information about the driver performance.
 
-2. **Get Status**
+2. **Get Lap Information**
     - **Endpoint**: `/laps`
     - **Method**: `GET`
     - **Description**: Scrape lap information for a specific driver and location per year.
 
-3. **Stop Scraping**
+3. **Get Race Results**
     - **Endpoint**: `/results`
     - **Method**: `GET`
     - **Description**: Scrape season results for a driver.
